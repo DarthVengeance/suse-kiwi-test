@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<image schemaversion="6.1" name="POS_Image_JeOS6">
+<image schemaversion="6.1" name="SUSE_Image_Test">
     <description type="system">
         <author>Admin User</author>
         <contact>noemail@example.com</contact>
